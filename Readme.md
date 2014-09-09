@@ -7,7 +7,7 @@ interesting bits from it here and there. Maybe it's even possible to make it
 work on current MW, who knows. You have been warned ;)
 
 ## Description
-What it does it basically recognize signatures in wikitext using a regexp.
+What it does is basically recognize signatures in wikitext using a regexp.
 Each post in a page is then identified by the hash of its heading text (and
 a counter for duplicate heading) and the hash of the post itself (again with
 counter for duplicates). The reply link opens a simple entry field similar
